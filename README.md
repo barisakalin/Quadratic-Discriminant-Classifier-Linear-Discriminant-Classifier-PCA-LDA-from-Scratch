@@ -1,0 +1,1 @@
+# Quadratic-Discriminant-Classifier-Linear-Discriminant-Classifier-PCA-LDA-from-Scratch
