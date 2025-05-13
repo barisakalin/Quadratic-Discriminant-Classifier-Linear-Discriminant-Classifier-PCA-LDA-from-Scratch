@@ -1,1 +1,3 @@
 # Quadratic-Discriminant-Classifier-Linear-Discriminant-Classifier-PCA-LDA-from-Scratch
+
+In the first part of this project, a dataset consisting of 1000 samples from 2 classes—with given covariance matrices and feature means—was generated. Then, the data in this dataset was classified using Quadratic Discriminant Classifier and Linear Discriminant Classifier methods. In the second part of the project, PCA was applied to the dataset in the data.txt file. In the third part, LDA was applied to the same dataset. For more detailed information, please refer to the explanation PDF included in the repository.
